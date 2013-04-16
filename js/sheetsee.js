@@ -1,7 +1,7 @@
 // globals for everyone! 
 
 var YEARS = ["year2012", "year2013", "year2014", "year2015", "year2016", "year2017", "year2018", "year2019"]
-var URL = 'https://docs.google.com/spreadsheet/pub?key=0Aj3c4mZCQQaMdGE2TVphOWlXMUMyclRXa2Z1c0g5MGc&output=html';
+var URL = '0AoXVKFw1Uci5dFNpRGdWd2pXZTN4a3Fza0VhVTRVaGc';
 var categoryColumn = "category"
 var focusAreaColumn = "focusarea"
 var projectColumn = "project"
