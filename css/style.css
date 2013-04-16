@@ -275,7 +275,7 @@ input, input[type="password"], input[type="search"], isindex {border: 0px; borde
 
 /* **** Handlebars.js Content, Table ***** */
 thead {padding-bottom: 20px; font-family: Arvo, Rockwell, serif;}
-th {background-color: #DDDDDD; font-size: 16px; font-weight: 400; padding: 6px; text-align: center;}
+th {background-color: #DDDDDD; font-size: 16px; font-weight: 400; padding: 6px; text-align: left;}
 tbody {padding: 15px 4px; font-family: Open Sans, Arial, sans-serif;}
 td {min-width: 64px; vertical-align: middle; height: 28px; padding: 3px 0px 3px 0px; font-size: 13px;}
 .project {padding-right: 10px;}
